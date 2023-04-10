@@ -12,6 +12,7 @@ def GetBillMean(time,day,sex,smoker) -> float :
     return mean_bill
 
 if __name__ == "__main__":
-    df= pd.read_csv("tips.csv")
+    f = 'datasets/tips.csv'
+    df= pd.read_csv(f)
     m = GetBillMean("Lunch","Fri","Male","Yes")
     print(m)
