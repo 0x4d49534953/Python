@@ -27,7 +27,7 @@ contains all the datasets that be used in the homeworks
 
 4- Classification directory:
 
-      this directory contians three ways for classification
+      this directory contians homewrok for lesson 3, this directory shows three ways for classification
       SVM
       K-NN
       Random forrest
