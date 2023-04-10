@@ -20,3 +20,7 @@ contains all the datasets that be used in the homeworks
       Lesson1_pandas2.py:
 
       contains second pandas task from the first lesso
+      
+3- lesson2.ipynb
+
+      this ipynb contains solution for the homework2 this file is ipynb file for the last time I run the module trying to increase the accuracy which is now 88%
