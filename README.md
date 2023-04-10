@@ -17,7 +17,6 @@ contains all the datasets that be used in the homeworks
 
       contains first pandas task from the first lesson
 
-
       Lesson1_pandas2.py:
 
       contains second pandas task from the first lesso
