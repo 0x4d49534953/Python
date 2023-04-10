@@ -2,7 +2,7 @@
 solution for python homeworks 
 
 
-1- dataset directory:
+1- datasets directory:
 
 contains all the datasets that be used in the homeworks
 
